@@ -251,6 +251,6 @@ cd docker && docker compose down     # stop DSA
 | `environment.yml` | Conda environment specification |
 | `requirements.txt` | Pip requirements |
 
-## Active Plans
+## Plans
 
 - `~/.claude/plans/woolly-strolling-kahan.md` — CLAUDE.md creation plan
